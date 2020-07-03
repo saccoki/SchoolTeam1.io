@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "schoolteam1": {
+      "hosting": {
+        "SchoolTeam": [
+          "schoolteam1"
+        ]
+      }
+    }
+  }
+}
