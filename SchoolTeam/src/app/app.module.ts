@@ -38,7 +38,8 @@ import { LoginComponent } from './login/login.component';
 import { AngularFireModule } from '@angular/fire';
 import { AngularFireAuthModule } from '@angular/fire/auth';
 import { environment} from '../environments/environment';
-import { TestingComponent } from './testing/testing.component'
+import { TestingComponent } from './testing/testing.component';
+import { FaceDetectionComponent } from './face-detection/face-detection.component'
 
 
 
@@ -72,7 +73,8 @@ export const MaterialModules = [
     AppComponent,
     HomeComponent,
     LoginComponent,
-    TestingComponent
+    TestingComponent,
+    FaceDetectionComponent
   ],
   imports: [
     BrowserModule,
