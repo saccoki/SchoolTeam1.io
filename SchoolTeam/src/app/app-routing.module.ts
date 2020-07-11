@@ -7,13 +7,13 @@ import { FaceDetectionComponent } from './face-detection/face-detection.componen
 
 const routes: Routes = [
   {path: '', pathMatch: 'full', component: HomeComponent },
-  {path: 'testing', component:TestingComponent},
-  {path: 'login',component:LoginComponent },
-  {path: 'face-detection', component:FaceDetectionComponent}
+  {path: 'testing', component: TestingComponent},
+  {path: 'login', component: LoginComponent },
+  {path: 'face-detection', component: FaceDetectionComponent}
 ];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule] 
+  exports: [RouterModule]
 })
 export class AppRoutingModule { }
