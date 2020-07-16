@@ -6,6 +6,21 @@
     <div *ngIf="!isLoggedIn">
         <button (click)="authService.login()" mat-raised-button color="primary" type="submit">login</button>
     </div> --> 
-    login works
+    
+    <h1>Login to CheatCode!</h1>
+    
+    Please enter an email to receive a link to login (for testing purposes, the email is hardcoded)<br><br>
     <button (click)="authService.login()" mat-raised-button color="primary" type="submit">login</button>
+    
+    <br>
+    <h2>What happens when you click the login button</h2>
+    An explaination of how email link authentification using Firebase<br>
+    <ul>
+        <li>An email containing a link is sent to the desired email</li>
+        <li>User opens their email and clicks the link</li>
+        <ul>
+            <li> --> if the user opens the link in a new browser, they are prompted to confirm their email</li>
+            <li> --> else, the user is taken to the login success page, which for this website brings you to an upload a photo page</li>
+        </ul>
+    </ul>
 </div>
