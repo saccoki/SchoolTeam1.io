@@ -1,6 +1,7 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { FaceLandmarkDetectionComponent } from './face-landmark-detection.component';
+console.log(FaceLandmarkDetectionComponent);
 
 describe('FaceLandmarkDetectionComponent', () => {
   let component: FaceLandmarkDetectionComponent;
