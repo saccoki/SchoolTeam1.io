@@ -28,9 +28,10 @@ What to install:
 
 ### Installing 
 Once these are installed, and this repository  is cloned on your machine, you should be good to go, by doing an
-> npm install
-> ng serve
-and then CheatCode will be hosted locally!
+* > npm install
+* > ng serve
+
+Browse to http://localhost4200/.
 
 ## Deployment 
 You can find CheatCode at https://schoolteam1.web.app/
