@@ -13,7 +13,7 @@ The login page allows users to sign in to use CheatCode via Firebase's email lin
 ### Face-detection
 The face-detection feature of CheatCode is the main feature of this web application, where the creator aims to limit identity fraud and prevent other resources from being used. Right now, there is a box where the webcam access shows the user in real-time, with a box and a decimal number to show the percent accuracy of detecting a face. In the future, the user would also upload a photo of themselves and using deep learning, check to see if the uploaded photo matches the person using the webcam. Besides, the eye detection would also be implemented using face APIs landmark detection.
 
-##### Contact
+### Contact
 The contact page allows users to add the first name and last name to CheatCode. It does not work yet. But, it will be fully functioning in further implementations. 
 
 ## Getting Started 
