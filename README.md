@@ -20,7 +20,7 @@ The contact page allows users to add the first name and last name to CheatCode. 
 These instructions will help you test CheatCode on your machine.
 
 ### Prerequisites
-We used Firebase, Node.js, and Angular to host on GitHub Pages.
+We used Firebase Host, Node.js, and Angular to host on GitHub Pages.
 What to install:
 - Node
 - Angular
@@ -55,8 +55,8 @@ For this project, we used [face-api](https://github.com/justadudewhohacks/face-a
 * Demi Linton
 
 ## Acknowledgments
-* A huge acknowledgment goes to School Team 1's pro squad mentor, Ishank Tandon and go, squad mentor, Kristen Mann from Angie's List who helped guide us through what to do and support us during the 2020 TechPoint S.O.S. Challenge.
-* Our sincere gratitude to TechPoint and our coaches for making this summer 2020 challenge happen!
+* A huge acknowledgment goes to School Team 1's pro squad mentor, Ishank Tandon and go, squad mentor, Kristen Mann from Angie's List who patiently guided us through challenge and support us during the 2020 TechPoint S.O.S. Challenge.
+* We sincere thank TechPoint and our coaches for giving us this experience!
 
 ## Reference 
 
